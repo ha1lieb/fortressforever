@@ -16,7 +16,7 @@ PlayerClassData
 
 	// Health & Armour
 	"max_armour"		"50"
-	"initial_armour"		"25"
+	"initial_armour"		"50"
 	"armour_type"		"3" // this means 0.3
 	"health"			"75"
 
@@ -48,10 +48,10 @@ PlayerClassData
 	// Ammo amounts for the player
 	AmmoData
 	{
-		"AMMO_SHELLS"		"25"
-		"AMMO_NAILS"		"75" //changed from 100
+		"AMMO_SHELLS"		"50"
+		"AMMO_NAILS"		"100"
 		"AMMO_CELLS"		"30"
-		"AMMO_ROCKETS"	"0"
+		"AMMO_ROCKETS"	"10"
 		"AMMO_DETPACK"	"0"
 		"AMMO_MANCANNON"	"1"
 	}
@@ -61,7 +61,7 @@ PlayerClassData
 		"AMMO_SHELLS"		"50"
 		"AMMO_NAILS"		"100" //changed from 200..
 		"AMMO_CELLS"		"30"
-		"AMMO_ROCKETS"	"25"
+		"AMMO_ROCKETS"	"10"
 		"AMMO_DETPACK"	"0"
 		"AMMO_MANCANNON"	"1"
 	}
