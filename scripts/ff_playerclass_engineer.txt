@@ -16,8 +16,8 @@ PlayerClassData
 
 	// Health & Armour
 	"max_armour"		"50"
-	"initial_armour"		"25"
-	"armour_type"		"5" // this means 0.5
+	"initial_armour"		"50"
+	"armour_type"		"6" // this means 0.6
 	"health"			"80"
 
 	"speed"			"300" //315 was 5% boosted
@@ -48,10 +48,10 @@ PlayerClassData
 	// Ammo amounts for the player
 	AmmoData
 	{
-		"AMMO_SHELLS"		"20"
-		"AMMO_NAILS"		"25"
-		"AMMO_CELLS"		"100"
-		"AMMO_ROCKETS"	"0"
+		"AMMO_SHELLS"		"50"
+		"AMMO_NAILS"		"30"
+		"AMMO_CELLS"		"200"
+		"AMMO_ROCKETS"	"30"
 		"AMMO_DETPACK"	"0"
 		"AMMO_MANCANNON"	"0"
 	}
